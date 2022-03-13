@@ -1,0 +1,267 @@
+.main{
+    border: 2px solid black;
+}
+
+.header{
+    border: 2px solid black;
+}
+
+.header h3{
+    padding: 1px;
+    margin: 1px;
+}
+
+.headloghere{
+border: 2px solid black;
+background-color: black;
+height: 5px;
+
+
+}
+h2{
+    padding: 1px;
+    margin: 1px;
+}
+
+
+.box1{
+display: flex;
+margin: 5px;
+justify-content: center;
+}
+
+.box2{
+display: flex;
+margin:  5px;
+justify-content: center;
+}
+
+
+
+.a1{
+border: 2px solid black;
+margin: 5px;
+padding: 80px;
+width: 250px;
+
+}
+.a2{
+border: 2px solid black;
+margin: 5px;
+padding: 80px;
+width: 250px;
+
+
+}
+.a3{
+border: 2px solid black;
+margin: 5px;
+padding: 80px;
+width: 250px;
+
+
+}
+.a4{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 80px;
+    width: 250px;
+ 
+
+}
+.a5{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 80px;
+    width: 250px;
+    
+
+}
+.a6{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 80px;
+    width: 250px;
+    
+
+
+
+}
+    .footer{
+display: flex;
+border: 2px solid black;
+margin: 1px;
+background-color: black;
+color: white;
+font-size: large;
+padding: 1px;
+ }
+ ul.one{
+     list-style: none;
+margin: 20px;
+padding-right: 100px;
+padding-left:  100px;
+
+ }
+ ul.two{
+    list-style: none;
+margin:  20px;
+padding-right: 100px;
+padding-left:  100px;
+
+}
+ul.three{
+    list-style: none;
+margin: 20px;
+padding-right: 100px;
+padding-left:  100px;
+
+}
+.one li{
+    margin: 5px;
+}
+.two li{
+    margin: 5px;
+}
+.three li{
+    margin: 5px;
+}
+
+
+
+/* @media (min-width: 600);
+
+
+
+
+
+.main{
+    border: 2px solid black;
+}
+
+.header{
+    border: 2px solid black;
+}
+
+.header h3{
+    padding: 1px;
+    margin: 1px;
+}
+
+.headloghere{
+border: 2px solid black;
+background-color: black;
+height: 5px;
+
+
+}
+h2{
+    padding: 1px;
+    margin: 1px;
+}
+
+
+.box1{
+display: flex;
+margin: 5px;
+justify-content: center;
+}
+
+.box2{
+display: flex;
+margin:  5px;
+justify-content: center;
+}
+
+
+
+.a1{
+border: 2px solid black;
+margin: 5px;
+padding: 80px;
+width: 250px;
+
+}
+.a2{
+border: 2px solid black;
+margin: 5px;
+padding: 80px;
+width: 250px;
+
+
+}
+.a3{
+border: 2px solid black;
+margin: 5px;
+padding: 80px;
+width: 250px;
+
+
+}
+.a4{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 80px;
+    width: 250px;
+ 
+
+}
+.a5{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 80px;
+    width: 250px;
+    
+
+}
+.a6{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 80px;
+    width: 250px;
+    
+
+
+
+}
+    .footer{
+display: flex;
+border: 2px solid black;
+margin: 1px;
+background-color: black;
+color: white;
+font-size: large;
+padding: 1px;
+ }
+ ul.one{
+     list-style: none;
+margin: 20px;
+padding-right: 100px;
+padding-left:  100px;
+
+ }
+ ul.two{
+    list-style: none;
+margin:  20px;
+padding-right: 100px;
+padding-left:  100px;
+
+}
+ul.three{
+    list-style: none;
+margin: 20px;
+padding-right: 100px;
+padding-left:  100px;
+
+}
+.one li{
+    margin: 5px;
+}
+.two li{
+    margin: 5px;
+}
+.three li{
+    margin: 5px;
+} */
+
+
